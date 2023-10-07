@@ -3,6 +3,8 @@
 
 ![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaCarloszks&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCarloszks&layout=compact)
+
 ## Tecnologias que ultilizo no meu dia a dia
 
 <div style="display: inline_block"><br/>
